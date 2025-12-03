@@ -1,7 +1,7 @@
 import os
 import logging
 from dotenv import load_dotenv  
-from github_connector.client import GitHubClient 
+from github_connector_folder.client import GitHubClient 
 
 
 def main():
