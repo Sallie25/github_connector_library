@@ -1,0 +1,18 @@
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.pyc
+*.pyd
+*.so
+
+Environment
+
+.venv
+.env # CRITICAL: Contains sensitive GITHUB_TOKEN
+/poetry.lock
+
+Editor directories and files
+
+.idea/
+.vscode/
+*.bak

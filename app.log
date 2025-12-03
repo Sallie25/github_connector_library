@@ -1,0 +1,152 @@
+2025-12-02 07:59 - INFO - Fetching details for Sallie25/de-week1-oop-salome...
+2025-12-02 08:00 - INFO - Fetching details for Sallie25/de-week1-oop-salome...
+2025-12-02 08:00 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:00 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/de-week1-oop-salome HTTP/1.1" 200 None
+2025-12-02 08:00 - INFO - Successful
+2025-12-02 08:00 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:00 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/de-week1-oop-salome HTTP/1.1" 200 None
+2025-12-02 08:00 - INFO - Successful
+2025-12-02 08:00 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:00 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/de-week1-oop-salome HTTP/1.1" 200 None
+2025-12-02 08:00 - INFO - Successful
+2025-12-02 08:00 - ERROR - Failed to fetch https://api.github.com/repos/Sallie25/de-week1-oop-salome after 3 attempts.
+2025-12-02 08:01 - INFO - Fetching details for Sallie25/de-week1-oop-salome...
+2025-12-02 08:01 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:01 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/de-week1-oop-salome HTTP/1.1" 200 None
+2025-12-02 08:01 - INFO - Successful
+2025-12-02 08:01 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:01 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/de-week1-oop-salome HTTP/1.1" 200 None
+2025-12-02 08:01 - INFO - Successful
+2025-12-02 08:01 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:01 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/de-week1-oop-salome HTTP/1.1" 200 None
+2025-12-02 08:01 - INFO - Successful
+2025-12-02 08:01 - ERROR - Failed to fetch https://api.github.com/repos/Sallie25/de-week1-oop-salome after 3 attempts.
+2025-12-02 08:20 - INFO - Fetching details for Sallie25/azuredatafactorypractices...
+2025-12-02 08:20 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:20 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/azuredatafactorypractices HTTP/1.1" 200 None
+2025-12-02 08:20 - INFO - Successful
+2025-12-02 08:20 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:20 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/azuredatafactorypractices HTTP/1.1" 200 None
+2025-12-02 08:20 - INFO - Successful
+2025-12-02 08:20 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:20 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/azuredatafactorypractices HTTP/1.1" 200 None
+2025-12-02 08:20 - INFO - Successful
+2025-12-02 08:20 - ERROR - Failed to fetch https://api.github.com/repos/Sallie25/azuredatafactorypractices after 3 attempts.
+2025-12-02 08:21 - INFO - Fetching details for Sallie25/azuredatafactorypractices...
+2025-12-02 08:21 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:21 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/azuredatafactorypractices HTTP/1.1" 200 None
+2025-12-02 08:21 - INFO - Successful
+2025-12-02 08:21 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:21 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/azuredatafactorypractices HTTP/1.1" 200 None
+2025-12-02 08:21 - INFO - Successful
+2025-12-02 08:21 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:21 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/azuredatafactorypractices HTTP/1.1" 200 None
+2025-12-02 08:21 - INFO - Successful
+2025-12-02 08:21 - ERROR - Failed to fetch https://api.github.com/repos/Sallie25/azuredatafactorypractices after 3 attempts.
+2025-12-02 08:22 - INFO - Fetching details for Sallie25/salome_biodata...
+2025-12-02 08:22 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:23 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/salome_biodata HTTP/1.1" 200 None
+2025-12-02 08:23 - INFO - Successful
+2025-12-02 08:23 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:23 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/salome_biodata HTTP/1.1" 200 None
+2025-12-02 08:23 - INFO - Successful
+2025-12-02 08:23 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:23 - DEBUG - https://api.github.com:443 "GET /repos/Sallie25/salome_biodata HTTP/1.1" 200 None
+2025-12-02 08:23 - INFO - Successful
+2025-12-02 08:23 - ERROR - Failed to fetch https://api.github.com/repos/Sallie25/salome_biodata after 3 attempts.
+2025-12-02 08:43 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:43 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:43 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:43 - INFO - Successful
+2025-12-02 08:43 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:43 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:43 - INFO - Successful
+2025-12-02 08:43 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:43 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:43 - INFO - Successful
+2025-12-02 08:43 - ERROR - Failed to fetch https://api.github.com/users/Sallie25/repos after 3 attempts.
+2025-12-02 08:46 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:46 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:46 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:46 - INFO - Successful
+2025-12-02 08:46 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:46 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:46 - INFO - Successful
+2025-12-02 08:46 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:46 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:46 - INFO - Successful
+2025-12-02 08:47 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:47 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:47 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:47 - INFO - Successful
+2025-12-02 08:47 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:47 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:47 - INFO - Successful
+2025-12-02 08:47 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:47 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:47 - INFO - Successful
+2025-12-02 08:48 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:48 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:48 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:48 - INFO - Successful
+2025-12-02 08:48 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:48 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:48 - INFO - Successful
+2025-12-02 08:48 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:48 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:48 - INFO - Successful
+2025-12-02 08:51 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:51 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:51 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:51 - INFO - Successful
+2025-12-02 08:51 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:51 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:51 - INFO - Successful
+2025-12-02 08:51 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:51 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:51 - INFO - Successful
+2025-12-02 08:58 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:58 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:58 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:58 - INFO - Successful
+2025-12-02 08:58 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:58 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:58 - INFO - Successful
+2025-12-02 08:58 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:58 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:58 - INFO - Successful
+2025-12-02 08:59 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 08:59 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:59 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:59 - INFO - Successful
+2025-12-02 08:59 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:59 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:59 - INFO - Successful
+2025-12-02 08:59 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 08:59 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 08:59 - INFO - Successful
+2025-12-02 09:00 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 09:00 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:00 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:00 - INFO - Successful
+2025-12-02 09:00 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:00 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:00 - INFO - Successful
+2025-12-02 09:00 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:00 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:00 - INFO - Successful
+2025-12-02 09:16 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 09:16 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:16 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:16 - INFO - Successful
+2025-12-02 09:16 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:16 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:16 - INFO - Successful
+2025-12-02 09:16 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:16 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:16 - INFO - Successful
+2025-12-02 09:16 - ERROR - Failed to fetch https://api.github.com/users/Sallie25/repos after 3 attempts.
+2025-12-02 09:19 - INFO - Fetching details for Sallie25/repos...
+2025-12-02 09:19 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-12-02 09:19 - DEBUG - https://api.github.com:443 "GET /users/Sallie25/repos HTTP/1.1" 200 None
+2025-12-02 09:19 - INFO - Successful
